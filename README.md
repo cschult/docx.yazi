@@ -3,7 +3,7 @@
 Plugin for [Yazi](https://github.com/sxyazi/yazi) to preview MS Word
 (.docx) files with [docx2txt](https://docx2txt.sourceforge.net/).
 
-This plugin is a only minimal changed copy of glow.yazi.
+This plugin is a only minimal changed copy of [glow.yazi](https://github.com/Reledia/glow.yazi).
 
 To install, clone the repo inside your `~/.config/yazi/plugins/`
 
